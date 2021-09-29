@@ -15,6 +15,7 @@
 		329B1189270424B100618252 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 329B1187270424B100618252 /* LaunchScreen.storyboard */; };
 		329B1194270424B200618252 /* TableViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329B1193270424B200618252 /* TableViewControllerTests.swift */; };
 		329B119F270424B200618252 /* TableViewControllerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329B119E270424B200618252 /* TableViewControllerUITests.swift */; };
+		329B11B02704250C00618252 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329B11AF2704250C00618252 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		329B119A270424B200618252 /* TableViewControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		329B119E270424B200618252 /* TableViewControllerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerUITests.swift; sourceTree = "<group>"; };
 		329B11A0270424B200618252 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		329B11AF2704250C00618252 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				329B117E270424A900618252 /* SceneDelegate.swift */,
 				329B1180270424A900618252 /* ViewController.swift */,
 				329B1182270424A900618252 /* Main.storyboard */,
+				329B11AF2704250C00618252 /* TableViewController.swift */,
 				329B1185270424B100618252 /* Assets.xcassets */,
 				329B1187270424B100618252 /* LaunchScreen.storyboard */,
 				329B118A270424B100618252 /* Info.plist */,
@@ -261,6 +264,7 @@
 				329B1181270424A900618252 /* ViewController.swift in Sources */,
 				329B117D270424A900618252 /* AppDelegate.swift in Sources */,
 				329B117F270424A900618252 /* SceneDelegate.swift in Sources */,
+				329B11B02704250C00618252 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
